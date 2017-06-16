@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<plugin id="cf-cordova-plugin-localization-ios" version="0.0.1" xmlns="http://apache.org/cordova/ns/plugins/1.0">
+<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0" xmlns:android="http://schemas.android.com/apk/res/android"
+    id="cordova-plugin-localization-ios"
+    version="1.8.2">
     <name>CRM Factory Cordova Localization iOS Plugin</name>
     <description>A label translate example</description>
     <!-- ios -->
